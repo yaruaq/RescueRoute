@@ -1,0 +1,4 @@
+volunteer_id,vehicle_capacity,area,availability,maximum_pickups
+V-3001,60,North,Available,3
+V-3002,120,South,Available,5
+V-3003,25,Central,Busy,2

@@ -1,0 +1,4 @@
+recipient_id,org_name,accepted_food_types,capacity,area,closing_time
+R-2001,Community Shelter,prepared meals | baked goods,100,North,17:00
+R-2002,Hope Pantry,produce | packaged goods,150,South,16:00
+R-2003,Westside Fridge,prepared meals | produce,30,West,18:00

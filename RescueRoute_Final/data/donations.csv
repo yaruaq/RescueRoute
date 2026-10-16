@@ -1,0 +1,5 @@
+donation_id,donor_name,food_type,quantity,shelf_life,pickup_area,ready_time
+D-1001,Trader Joes,produce,50,90,North,10:00
+D-1002,In N Out,prepared meals,30,180,Central,10:30
+D-1003,Krispy Kreme,baked goods,100,120,South,11:00
+D-1004,Del Taco,prepared meals,50,45,North,11:15
